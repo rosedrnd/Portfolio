@@ -6,3 +6,11 @@
     font-family: 'Lobster', cursive;
 
 }
+
+@media (max-width: 1000px) {
+
+    .grosse-icone {
+        color:#9dbe9a;
+    }
+}
+
