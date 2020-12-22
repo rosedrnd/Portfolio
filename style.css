@@ -7,6 +7,10 @@
 
 }
 
+.navbar {
+    background-color: #cdaadb;
+}
+
 @media (max-width: 1000px) {
 
     .grosse-icone {
